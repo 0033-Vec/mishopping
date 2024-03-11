@@ -1,0 +1,20 @@
+* {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+ul,
+li,
+a,
+p {
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+}
